@@ -1,2 +1,3 @@
-# Discrete_Project
-a simple Discrete project coded in cpp.
+# DiscreteMathematics_CourseProject
+
+A program that analyzes the Set functions
